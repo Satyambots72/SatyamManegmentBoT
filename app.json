@@ -53,6 +53,16 @@
          "required": true,
          "value": "-1002024151357"
       },
+     "GBAN_LOGS": {
+         "description": "Gban Logs ex: '-123456'",
+         "required": true,
+         "value": ""
+      },
+      "DATABASE_URL": {
+         "description": "Gban Logs ex: '-123456'",
+         "required": true,
+         "value": ""
+      },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
